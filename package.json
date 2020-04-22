@@ -1,0 +1,23 @@
+{
+    "name": "stylelint-config-strawberry",
+    "version": "1.0.0",
+    "description": "Strawberry's Stylelint config.",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/strawberry/stylelint-config-strawberry"
+    },
+    "author": {
+      "name": "Strawberry",
+      "url": "https://github.com/strawberry"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/strawberry/stylelint-config-strawberry/issues"
+    },
+    "homepage": "https://github.com/strawberry/stylelint-config-strawberry",
+    "dependencies": {
+        "stylelint": "^13.3.2",
+        "stylelint-scss": "^3.17.1"
+    }
+}
