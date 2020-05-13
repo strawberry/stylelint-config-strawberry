@@ -1,5 +1,5 @@
 {
-    "name": "stylelint-config-strawberry",
+    "name": "@strawberrydigital/stylelint-config",
     "version": "1.0.0",
     "description": "Strawberry's Stylelint config.",
     "main": "index.js",
