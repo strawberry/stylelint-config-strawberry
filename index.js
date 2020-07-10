@@ -5,6 +5,7 @@ module.exports = {
     ],
     rules: {
       'at-rule-no-unknown': null,
+      'declaration-no-important': true,
       indentation: 4,
       'order/properties-alphabetical-order': true,
       'scss/at-rule-no-unknown': true,
